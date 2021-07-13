@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jakerosete
-- 👀 I’m interested in learniong automation testing.
+- 👀 I’m interested in learning automation testing.
 - 📫 How to reach me jicey15@gmail.com
 
 <!---
